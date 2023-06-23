@@ -19,16 +19,16 @@
 
 ***
 ###Python Files
-> DNN.py
-> dp.py
-> gui_main.py
-> Main_2015.py
-> Main_2017.py
-> Main_2019.py
-> SFO.py
-> SSO.py
-> util.py
-> performance.py
+    * DNN.py
+    * dp.py
+    * gui_main.py
+    * Main_2015.py
+    * Main_2017.py
+    * Main_2019.py
+    * SFO.py
+    * SSO.py
+    * util.py
+    * performance.py
 
 **Python** : **3.10.11**
 
@@ -42,6 +42,7 @@ look at this version.
 ***
 env 
 > tf_py10
+
 ###Package                       Version
 ----------------------------- ---------
 absl-py                       1.4.0
