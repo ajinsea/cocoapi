@@ -19,8 +19,16 @@
 
 ***
 ###Python Files
-
-
+> DNN.py
+> dp.py
+> gui_main.py
+> Main_2015.py
+> Main_2017.py
+> Main_2019.py
+> SFO.py
+> SSO.py
+> util.py
+> performance.py
 
 **Python** : **3.10.11**
 
@@ -29,10 +37,8 @@
 `pip install -r requirements.txt`
 
 ***
-***
 These are the package version used while bulding this project.If you got any problem with the packages.
 look at this version.
-***
 ***
 env 
 > tf_py10
