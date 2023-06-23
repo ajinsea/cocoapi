@@ -1,9 +1,10 @@
 
 1. Dataset
 > It contains the dataset of 
->> *BRATS 2015
->> *BRATS 2017
->> *BRATS 2019
+>>
+ * BRATS 2015
+ * BRATS 2017
+ * BRATS 2019
 
 2. Features
 > It contains the features saved
@@ -36,12 +37,14 @@
 
 
 ####To install using requirements file
+
 `pip install -r requirements.txt`
 
 ***
 These are the package version used while bulding this project.If you got any problem with the packages.
 look at this version.
 ***
+
 env 
 > tf_py10
 
